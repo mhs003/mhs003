@@ -1,3 +1,3 @@
 ### Thanks for visiting my profile.
 
-## God blast you 👋
+# God blast you 👋
