@@ -1,3 +1,1 @@
-### Thanks for visiting my profile.
-
-# God blast you 👋
+![MHS](/mhs.svg)
