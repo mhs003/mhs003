@@ -1,1 +1,1 @@
-![MHS](/mhs.svg)
+<img src="mhs.svg" />
