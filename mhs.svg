@@ -21,6 +21,7 @@ h1 {
   font: 13px sans-serif;
   color: #28A048;
   font-weight: bold;
+  background: red;
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
