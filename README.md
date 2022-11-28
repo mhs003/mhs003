@@ -1,3 +1,3 @@
-## <center>Programmer in the Shell</center>
+## Programmer in the Shell
 
 <!--![Monzurul Hasan 🕶](./mhs.svg)-->
