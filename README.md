@@ -1,3 +1,3 @@
 ## Programmer in the Shell
 
-![Monzurul Hasan 🕶](./mhs.svg)
+<!--![Monzurul Hasan 🕶](./mhs.svg)-->
