@@ -6,17 +6,19 @@
 <section>
   <h2 align="center">/ About Me / </h2>
   <ul>
-    <li>💻 A Junior Developer.</li>
+    <li>💻 A Junior Developer</li>
     <li>🕵️ Not studying currently </li>
-    <li>🔭 I’m currently working on Nothing!</li>
-    <li>🌱 I’m currently learning GoLang. Cause it's awesome.</li>
+    <li>🔭 Focusing on career</li>
+    <li>🌱 I’m currently learning Go-lang. Cause it's awesome.</li>
     <li>👯 Looking to collaborate on cli based applications. (TS/JS, Python or Go)</li>
-    <li>📫 How to reach me: <a href="mailto:monzurulhasan1001@gmail.com">monzurulhasan1001@gmail.com</a></li>
+    <li>📫 To reach me: <a href="mailto:monzurulhasan1001@gmail.com">monzurulhasan1001@gmail.com</a></li>
+    <li></li>
+    <li><img width="17px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /> I use Arch BTW</li>
   </ul>
 </section>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-  <h2>/ Skills /</h2>
+  <h2 align="center">/ Skills /</h2>
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Front-End</kbd>
@@ -65,7 +67,7 @@
   </p>
 </div>
 <p align="center">
-<h2>/ Github Stats /</h2>
+<h2 align="center">/ Github Stats /</h2>
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
@@ -83,13 +85,11 @@
 </div>
 </p>
 <div>
-  <h2>/ Social Media /</h2>
+  <h2 align="center">/ Social Media /</h2>
   <ul>
     <li><a href="https://facebook.com/7ox1c.7"><img src="https://img.shields.io/badge/7ox1c.7-%23323330?style=for-the-badge&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a></li>
     <li><a href="mailto:monzurulhasan1001@gmail.com"><img src="https://img.shields.io/badge/monzurulhasan1001@gmail.com-%23323330?style=for-the-badge&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
   </ul>
 </div>
-<hr>
-<footer align="center">
-</footer>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
