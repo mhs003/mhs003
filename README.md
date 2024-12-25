@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<a href="https://github.com/mhs003"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Test;Hi%2C+this+is+Monzurul+Hasan.;A+passionate+programmer%2C;and+a+linux+enthusiast.;I+try+making+cool+things%2C;but+it+all+ends+up+being+messy.+%3AP" alt="Monzurul Hasan" /></a>
+<a href="https://github.com/mhs003"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Test;Hi%2C+this+is+Monzurul+Hasan.;A+passionate+programmer;and+a+linux+enthusiast.;I+try+to+make+cool+things%2C;but+it+all+ends+up+being+messy.+%3AP+++++++" alt="Monzurul Hasan" /></a>
 </p>
 <hr>
 <section>
@@ -36,11 +36,17 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" title="Laravel">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="bun" title="Bun">
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" title="MongoDB">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL">
     </kbd>
     <kbd>
-      <kbd>Language Coding</kbd>
+      <kbd>Languages</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript">
