@@ -86,9 +86,9 @@
     </td>
   </tr>
 </table>
-<div align=center>
+<!--<div align=center>
   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mhs003&theme=discord&row=1&column=7&margin-h=15&margin-w=5&no-frame=true&no-bg=false" alt="TROPHY">
-</div>
+</div>-->
 </p>
 <div>
   <h2 align="center">/ Social Media /</h2>
