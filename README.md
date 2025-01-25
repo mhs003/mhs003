@@ -73,7 +73,7 @@
   </p>
 </div>
 <p align="center">
-<h2 align="center">/ Github Stats /</h2>
+<!-- <h2 align="center">/ Github Stats /</h2>
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
@@ -85,7 +85,7 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mhs003&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&langs_count=7">
     </td>
   </tr>
-</table>
+</table> -->
 <!--<div align=center>
   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mhs003&theme=discord&row=1&column=7&margin-h=15&margin-w=5&no-frame=true&no-bg=false" alt="TROPHY">
 </div>-->
