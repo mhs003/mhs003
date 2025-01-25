@@ -86,7 +86,7 @@
 </div>
 </p> -->
 <div>
-  <h2 align="center">/ Social Media /</h2>
+  <h2 align="center">/ Connect through /</h2>
   <ul>
     <li><a href="https://facebook.com/7ox1c.7"><img src="https://img.shields.io/badge/7ox1c.7-%23323330?style=for-the-badge&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a></li>
     <li><a href="mailto:monzurulhasan1001@gmail.com"><img src="https://img.shields.io/badge/monzurulhasan1001@gmail.com-%23323330?style=for-the-badge&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
