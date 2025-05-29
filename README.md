@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <b>Recreational Programming</b>
+  <b>Recreational Programming</b> is my hobby
 <hr>
 <section>
   <h2 align="center">/ Some info / </h2>
@@ -59,9 +59,8 @@
 </div>
 <div>
   <h2 align="center">/ Connect through /</h2>
-  <ul>
-    <li><a target="_blank" href="https://t.me/lythvoid"><img src="https://img.shields.io/badge/@lythvoid-%23323330?style=plastic&logo=telegram&label=Telegram&logoColor=0088cc" alt="Telegram"></a></li>
-    <li><a target="_blank" href="https://facebook.com/7ox1c.7"><img src="https://img.shields.io/badge/7ox1c.7-%23323330?style=plastic&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a></li>
-    <li><a target="_blank" href="mailto:monzurulhasan1001@gmail.com"><img src="https://img.shields.io/badge/monzurulhasan1001@gmail.com-%23323330?style=plastic&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a></li>
+  <a target="_blank" href="https://t.me/lythvoid"><img src="https://img.shields.io/badge/@lythvoid-%23323330?style=plastic&logo=telegram&label=Telegram&logoColor=0088cc" alt="Telegram"></a><br>
+  <a target="_blank" href="https://facebook.com/7ox1c.7"><img src="https://img.shields.io/badge/7ox1c.7-%23323330?style=plastic&logo=facebook&label=Facebook&logoColor=0866FF" alt="Facebook"></a><br>
+  <a target="_blank" href="mailto:monzurulhasan1001@gmail.com"><img src="https://img.shields.io/badge/monzurulhasan1001@gmail.com-%23323330?style=plastic&logo=gmail&label=Gmail&logoColor=EA4335" alt="Gmail"></a>
   </ul>
 </div>
