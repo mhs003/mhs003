@@ -11,7 +11,7 @@
   </ul>
 </section>
 <div>
-  <h2 align="center">/ Skills /</h2>
+  <h2 align="center">/ Stuffs I know /</h2>
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Frameworks/Tech Stacks</kbd>
