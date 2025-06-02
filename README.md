@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <b>Recreational Programming</b> is my hobby
+  <b>Low Level</b> is a satisfaction
 <hr>
 <section>
   <h2 align="center">/ Some info / </h2>
