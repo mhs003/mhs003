@@ -5,7 +5,7 @@
 <section>
   <h2 align="center">/ Some info / </h2>
   <ul>
-    <li>I'm a multi-stack Developer</li>
+    <li>Multi-stack Developer</li>
     <li>Looking to collaborate on cli based applications. (TS/JS, Python, Go)</li>
     <li>Cats are insanely cute</li>
   </ul>
