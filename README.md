@@ -5,9 +5,9 @@
 <section>
   <h2 align="center">/ Some info / </h2>
   <ul>
-    <li>A Junior Developer</li>
+    <li>I'm a multi-stack Developer</li>
     <li>Looking to collaborate on cli based applications. (TS/JS, Python, Go)</li>
-    <li>AIs are bullsh!t</li>
+    <li>Cats are insanely cute</li>
   </ul>
 </section>
 <div>
