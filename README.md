@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  🇵🇸
+  <a href="https://techforpalestine.org/learn-more" target="_blank"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="I stand with Palestine" /></a>
 <hr>
 <section>
   <h2 align="center">/ Some info / </h2>
