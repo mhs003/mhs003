@@ -8,7 +8,6 @@
     <li>Multi-stack Developer</li>
     <li>Looking to collaborate on cli based applications. (TS/JS, Python, Go)</li>
     <li>Cats are insanely cute</li>
-    <li>Have a look at <a href="https://gist.github.com/mhs003">Gists</a></li>
   </ul>
 </section>
 <div>
